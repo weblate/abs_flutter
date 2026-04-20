@@ -1,7 +1,9 @@
 # Buchable
 
 > [!IMPORTANT]
-> Searching for a person that wants to do UI and UX for an "Buchable 2" which will this time be released for iOS free of charge without any PayWalls.\
+> I started working on Buchable 2, optimized for desktop, tablet, and mobile use. It will have a different design style than Buchable has now, but I did not find the design of Buchable appealing from the beginning. That is why I did not use it much, or at all, which caused the project to become stale. I have now built [yaabsa](https://github.com/Vito0912/yaabsa/) [working title], which this time I built more with a design in mind I personally like. It is mainly a project for family and friends, but it is open source and free to use. It is currently in a very early development phase, with many views missing. iOS and macOS support will be added later, but other than for Buchable, will be added\
+> \
+> STILL: Searching for a person that wants to do UI and UX for an "Buchable 2" which will this time be released for iOS free of charge without any PayWalls.\
 > The basic structure for this app is already in place. If you are interested and motivated to help build a great abs app for all platforms with many features, please contact me at fito0912@duck.com.
 
 <a href="https://hosted.weblate.org/engage/audiobookshelf-flutter-client/">
