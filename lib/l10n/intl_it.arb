@@ -468,5 +468,7 @@
     "waitingForDownload": "In attesa dell'avvio del download",
     "wrapText": "Testo a capo",
     "wrapTextDescription": "Se abilitata, alcuni testi, come i capitoli, vengono mandati a capo anziché essere troncati. Questo potrebbe compromettere alcuni design.",
-    "addedAt": "Aggiungi a"
+    "addedAt": "Aggiungi a",
+    "showOnlyDownloadedWhenOffline": "Mostra solo i Libri scaricati quando sei offline",
+    "showOnlyDownloadedWhenOfflineDescription": "Quando questa funzione è attiva e non è connessa al server, nella libreria verranno visualizzati solo gli elementi scaricati."
 }
